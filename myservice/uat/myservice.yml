@@ -1,2 +1,3 @@
 value-source: myservice/uat/myservice.yml
+app-specific: myservice/uat/myservice.yml
 
